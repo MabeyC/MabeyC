@@ -6,7 +6,7 @@ Passionate full-stack developer with a knack for creating clean, efficient, and 
 * 🌍  I'm based in Canada (New Brunswick)
 * ✉️  You can contact me at [hello@chrismabey.dev](mailto:hello@chrismabey.dev)
 * 🧠  I'm learning everything JavaScript
-* 🤝  I'm open to collaborating on ai driven solutions
+* 🤝  I'm open to collaborating on open source projects and AI driven solutions
 
 ### Skills
 
