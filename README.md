@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Mabey
 ===================================================================================================================================
-Web Developer
--------------
+
 Passionate full-stack developer with a knack for creating clean, efficient, and user-friendly solutions. Armed with a diverse tech stack and a problem-solving mindset, I'm committed to bringing robust and scalable solutions to life. Always learning, always growing.
 * 🌍  I'm based in Canada (New Brunswick)
 * ✉️  You can contact me at [hello@chrismabey.dev](mailto:hello@chrismabey.dev)
